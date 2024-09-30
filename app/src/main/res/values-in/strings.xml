@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SubStoryAppIntermediate</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="welcome_page_message">Aplikasi cerita hari-harimu</string>
+    <string name="welcome_page_tittle">Selamat datang</string>
+    <string name="title_signup_page">Isi datamu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Isi datamu</string>
+    <string name="title_login_page">Apa kamu siap?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat datang</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="description">Description</string>
+</resources>

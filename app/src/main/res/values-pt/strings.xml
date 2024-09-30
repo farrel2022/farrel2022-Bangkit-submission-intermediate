@@ -1,0 +1,20 @@
+
+<resources>
+<string name="app_name">SubStoryAppIntermediate</string>
+<string name="signup">Inscrever-se</string>
+<string name="login">Login</string>
+<string name="welcome_page_message">Aplicativo para sua história</string>
+<string name="welcome_page_tittle">Bem-vindo</string>
+<string name="title_signup_page">Preencha seus dados</string>
+<string name="email">E-mail</string>
+<string name="password">Senha</string>
+<string name="message_login_page">Preencha seus dados</string>
+<string name="title_login_page">Você está pronto?</string>
+<string name="name">Nome</string>
+<string name="message_main_page">Bem-vindo</string>
+<string name="greeting">Halo %1$s,</string>
+<string name="logout">Keluar</string>
+<string name="description">Descrição</string>
+
+
+</resources>

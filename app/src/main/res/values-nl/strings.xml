@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SubStoryAppIntermediate</string>
+    <string name="signup">Aanmelden</string>
+    <string name="login">Inloggen</string>
+    <string name="welcome_page_message">Aanvraag voor jouw verhaal</string>
+    <string name="welcome_page_tittle">Welkom</string>
+    <string name="title_signup_page">Vul uw gegevens in</string>
+    <string name="email">E-mail</string>
+    <string name="password">Wachtwoord</string>
+    <string name="message_login_page">Vul uw gegevens in</string>
+    <string name="title_login_page">Ben je er klaar voor?</string>
+    <string name="name">Naam</string>
+    <string name="message_main_page">Welkom</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Exit</string>
+    <string name="description">Description</string>
+</resources>

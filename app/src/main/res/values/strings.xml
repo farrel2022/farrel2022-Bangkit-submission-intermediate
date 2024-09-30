@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SubStoryAppIntermediate</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="welcome_page_message">Application For Your Story</string>
+    <string name="welcome_page_tittle">Welcome</string>
+    <string name="title_signup_page">Fill your data</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Fill your data</string>
+    <string name="title_login_page">Are you ready?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Welcome</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Exit</string>
+    <string name="description">Description</string>
+    <string name="retry">reload</string>
+    <string name="app_tittle">SubStoryAppIntermediate</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelite\n</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="terrain">Terrain</string>
+
+
+</resources>
